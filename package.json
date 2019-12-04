@@ -23,7 +23,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/currency": "^3.2.13"
+		"@ctx-core/currency": "^3.2.14"
 	},
 	"devDependencies": {
 		"typescript": "^3.7.3"
