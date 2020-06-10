@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/etsy",
-	"version": "1.1.35",
+	"version": "1.1.36",
 	"description": "@ctx-core etsf functions",
 	"main": "lib.js",
 	"module": "lib.js",
@@ -24,7 +24,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/currency": "^3.2.37"
+		"@ctx-core/currency": "^3.2.38"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.5"
