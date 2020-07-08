@@ -2,9 +2,9 @@
 	"name": "@ctx-core/etsy",
 	"version": "1.1.40",
 	"description": "@ctx-core etsf functions",
-	"main": "index.js",
-	"module": "index.js",
-	"types": "index.ts",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ctx-core/etsy/issues"
