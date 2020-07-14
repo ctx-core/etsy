@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/etsy",
-	"version": "1.1.41",
+	"version": "1.1.42",
 	"description": "@ctx-core etsf functions",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -24,7 +24,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/currency": "^3.2.43"
+		"@ctx-core/currency": "^3.2.44"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.6"
