@@ -27,7 +27,7 @@
 		"@ctx-core/currency": "^4.0.17"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.7"
+		"typescript": "^4.0.2"
 	},
 	"gitHead": "600edcfa25bf9e9f668e79f8548937f9ee315559"
 }
