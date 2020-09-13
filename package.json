@@ -29,5 +29,8 @@
 	"devDependencies": {
 		"typescript": "^4.0.2"
 	},
-	"gitHead": "e080cc65437626c6dc9513bb3b63ce60176acedd"
+	"gitHead": "089df6637b034c600fb8d4783ecb352c800936f0",
+	"scripts": {
+		"exec": "$@"
+	}
 }
