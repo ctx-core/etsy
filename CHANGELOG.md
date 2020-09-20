@@ -1,5 +1,12 @@
 # @ctx-core/etsy
 
+## 2.0.2
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/currency@5.0.2
+
 ## 2.0.1
 
 ### Patch Changes
