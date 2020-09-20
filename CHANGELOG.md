@@ -1,5 +1,13 @@
 # @ctx-core/etsy
 
+## 2.0.1
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+- Updated dependencies [undefined]
+  - @ctx-core/currency@5.0.1
+
 ## 2.0.0
 
 ### Major Changes
