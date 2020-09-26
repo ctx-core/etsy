@@ -1,36 +1,36 @@
 {
-  "name": "@ctx-core/etsy",
-  "version": "2.0.14",
-  "description": "@ctx-core etsf functions",
-  "keywords": [
-    "ctx-core",
-    "etsy",
-    "api"
-  ],
-  "homepage": "https://github.com/ctx-core/etsy#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/etsy/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/etsy/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "main": "./index.js",
-  "module": "./index.js",
-  "types": "./index.ts",
-  "scripts": {
-    "build": "npm run compile",
-    "exec": "$@"
-  },
-  "dependencies": {
-    "@ctx-core/currency": "workspace:^5.0.14"
-  },
-  "devDependencies": {
-    "typescript": "^4.0.3"
-  },
-  "publishConfig": {
-    "access": "public"
-  }
+	"name": "@ctx-core/etsy",
+	"version": "2.0.14",
+	"description": "@ctx-core etsf functions",
+	"keywords": [
+		"ctx-core",
+		"etsy",
+		"api"
+	],
+	"homepage": "https://github.com/ctx-core/etsy#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/etsy/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/etsy/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
+	"scripts": {
+		"build": "npm run compile",
+		"exec": "$@"
+	},
+	"dependencies": {
+		"@ctx-core/currency": "workspace:^5.0.14"
+	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
