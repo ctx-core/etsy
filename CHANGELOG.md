@@ -1,5 +1,11 @@
 # @ctx-core/etsy
 
+## 2.0.19
+
+### Patch Changes
+
+- fix: typescript build
+
 ## 2.0.18
 
 ### Patch Changes
