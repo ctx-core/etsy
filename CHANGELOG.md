@@ -1,5 +1,13 @@
 # @ctx-core/etsy
 
+## 2.0.17
+
+### Patch Changes
+
+- typescript: ^4.0.5 -> ^4.1.2
+- Updated dependencies [undefined]
+  - @ctx-core/currency@5.0.17
+
 ## 2.0.16
 
 ### Patch Changes
