@@ -1,5 +1,13 @@
 # @ctx-core/etsy
 
+## 2.0.33
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+  - @ctx-core/currency@6.1.6
+
 ## 2.0.32
 
 ### Patch Changes
