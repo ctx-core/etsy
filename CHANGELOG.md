@@ -1,5 +1,11 @@
 # @ctx-core/etsy
 
+## 3.0.0
+
+### Major Changes
+
+- dormant package
+
 ## 2.0.34
 
 ### Patch Changes

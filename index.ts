@@ -1,1 +1,2 @@
-export * from './lib'
+console.warn('@ctx-core/etsy is dormant')
+export {}
