@@ -1,5 +1,11 @@
 # @ctx-core/etsy
 
+## 3.0.7
+
+### Patch Changes
+
+- @ctx-core/currency@6.1.14
+
 ## 3.0.6
 
 ### Patch Changes
