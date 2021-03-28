@@ -1,5 +1,11 @@
 # @ctx-core/etsy
 
+## 3.0.16
+
+### Patch Changes
+
+- 39607cca5: typescript: ^4.1.3 -> ^4.2.3
+
 ## 3.0.15
 
 ### Patch Changes
