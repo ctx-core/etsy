@@ -25,10 +25,10 @@
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/currency": "workspace:^6.1.22"
+		"@ctx-core/currency": "workspace:^7.0.22"
 	},
 	"devDependencies": {
-		"typescript": "^4.1.3"
+		"typescript": "^4.2.3"
 	},
 	"publishConfig": {
 		"access": "public"
