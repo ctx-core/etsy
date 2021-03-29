@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/etsy",
-	"version": "3.0.17",
+	"version": "3.0.18",
 	"description": "@ctx-core etsf functions",
 	"keywords": [
 		"ctx-core",
@@ -25,12 +25,13 @@
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/currency": "workspace:^7.0.23"
+		"@ctx-core/currency": "workspace:^7.0.24"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.3"
 	},
 	"publishConfig": {
-		"access": "public"
+		"access": "public",
+		"cache": "~/.npm"
 	}
 }

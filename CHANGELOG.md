@@ -1,5 +1,13 @@
 # @ctx-core/etsy
 
+## 3.0.18
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/currency@7.0.24
+
 ## 3.0.17
 
 ### Patch Changes
