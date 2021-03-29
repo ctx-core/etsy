@@ -1,5 +1,13 @@
 # @ctx-core/etsy
 
+## 3.0.19
+
+### Patch Changes
+
+- version bump
+- Updated dependencies [undefined]
+  - @ctx-core/currency@7.0.25
+
 ## 3.0.18
 
 ### Patch Changes
